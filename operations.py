@@ -9,3 +9,6 @@ def potencia(a, pot):
 
 def multiplicacao(a, b):
     return a * b
+
+def divisão(a, b):
+    return a / b
